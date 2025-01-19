@@ -1,0 +1,11 @@
+{
+    "Quectel": {
+        "name": "Quectel",
+        "description": "Quectel OpenCPU development platform",
+        "frameworks": [
+            "CSDK"
+        ],
+        "repository": "https://github.com/Fatmear/DevPlatform-Quectel.git",
+        "contributor": "Quectel"
+    }
+}
