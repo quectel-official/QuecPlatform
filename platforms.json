@@ -5,7 +5,7 @@
         "frameworks": [
             "CSDK"
         ],
-        "repository": "https://github.com/Fatmear/DevPlatform-Quectel.git",
+        "repository": "https://github.com/Fatmear/QuecPlatform-Quectel.git",
         "contributor": "Quectel"
     }
 }
