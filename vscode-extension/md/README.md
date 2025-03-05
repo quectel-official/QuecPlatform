@@ -1,4 +1,4 @@
-English | [中文](https://raw.githubusercontent.com/quectel-official/QuecPlatform/main/vscode-extension/md/README_CN.md)
+English | [中文](https://github.com/quectel-official/QuecPlatform/blob/main/vscode-extension/md/README_CN.md)
 
 # QuecPlatform for VSCode
 
