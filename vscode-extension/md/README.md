@@ -14,7 +14,7 @@ This is the OpenCPU development platform developed by Quectel.🚀
 ## Quick Start
 
 1. Install the `QuecPlatform` extension in the VSCode marketplace.
-2. Click the 'Q' icon to open the plugin and wait for it to load.<br>
+2. Click the '`Q`' icon to open the plugin and wait for it to load.<br>
 ![first page](https://raw.githubusercontent.com/quectel-official/QuecPlatform/main/vscode-extension/md/first_page.png)
 3. In the left menu bar you will see the following buttons: 
     - `Home`: home page. Here you can create a new project, open an existing project, view all platform packages, and view board packages supported by installed platforms.
@@ -67,7 +67,7 @@ This is the OpenCPU development platform developed by Quectel.🚀
 
 ### 0.1.2
 -------------------------
-- Add a quick start document entry to the home page.
+- Add a quick start document entry to the home page;
 - Added the Project conversion function, which can convert the project not supported by the tool to the project supported by the tool;
 - Fix known issues.
 
