@@ -31,6 +31,8 @@ This is the OpenCPU development platform developed by Quectel.🚀
         
     - `Open project`: Open an existing project.
 
+    - `Conversion project`: Convert project not supported by the tool to the project supported by the tool. Due to the need for one-stop compilation, the tool only supports specific projects, but you can use this option to convert unsupported projects to supported projects, but only for the boards supported by the tool.
+
     - `Build`: If you have already created or opened a project, you can click this button to compile, if there is no open project, please follow the steps above to create or open one.
 
     - `Upload`: To burn firmware, please select the correct serial port before burning.
@@ -66,6 +68,8 @@ This is the OpenCPU development platform developed by Quectel.🚀
 ### 0.1.2
 -------------------------
 - Add a quick start document entry to the home page.
+- Added the Project conversion function, which can convert the project not supported by the tool to the project supported by the tool;
+- Fix known issues.
 
 
 ### 0.1.1
