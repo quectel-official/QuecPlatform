@@ -65,6 +65,10 @@ This is the OpenCPU development platform developed by Quectel.🚀
 
 ## Release Notes
 
+### 0.1.3
+-------------------------
+- Fixed the issue where an error occurred when pulling down a github repository on windows.
+
 ### 0.1.2
 -------------------------
 - Add a quick start document entry to the home page;
