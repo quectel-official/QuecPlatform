@@ -40,6 +40,8 @@ This is the OpenCPU development platform developed by Quectel.🚀
     - `Restart QuecPlatform`: Restart the extension, when it doesn't work well.
 
 4. Access Token Acquisition
+   > If it is Platform version 1.0.5 or later, this step is no longer required!
+   
    - Before installing Quectel's board package, you need to obtain an access token from GitLab for code pulling.
 
    - The left input box is the user name of your GitLab account, the right is your access token, below is the change button, click on it account can take effect, the following will explain how to apply for access token. <br>
@@ -56,7 +58,7 @@ This is the OpenCPU development platform developed by Quectel.🚀
 
    - Finally copy the generated access token and fill it in the specified location in the Account field of the `Home` page.
 
-5. You can see the following buttons in the bottom status bar:<br>
+6. You can see the following buttons in the bottom status bar:<br>
     ![status bar](https://raw.githubusercontent.com/quectel-official/QuecPlatform/main/vscode-extension/md/status_bar.png)
     - `o` build button.
     - `√` upload button.
