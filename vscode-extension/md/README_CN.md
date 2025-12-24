@@ -40,6 +40,8 @@ Quectel OpenCPU一站式开发平台。🚀
     - `Restart QuecPlatform`: 重启插件，如果插件没有正常工作。
 
 4. 访问令牌获取
+   > 如果是1.0.5及以后的Platform版本不再需要该步骤
+   
    - 安装Quectel的开发板包前需要获取到GitLab的访问令牌才能进行代码拉取。
 
    - 左侧输入框是你GitLab账号的用户名，右侧是你的访问令牌，下面是更改按钮，点击它账号就可以生效，下面将介绍如何申请访问令牌。<br>
@@ -86,3 +88,4 @@ Quectel OpenCPU一站式开发平台。🚀
 Quectel: https://www.quectel.com.cn/
 
 Quectel - Short Range: https://short-range.quectel.com/
+
